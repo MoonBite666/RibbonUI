@@ -26,7 +26,7 @@ else()
     set(PLUGIN_TARGET_NAME ${PROJECT_NAME})
 endif()
 
-set(qml_files RibbonTabBar.qml RibbonTabButton.qml RibbonView.qml
+set(qml_files RibbonTabBar.qml RibbonTabButton.qml RibbonView.qml RibbonToolBar.qml
     RibbonTabPage.qml RibbonTabGroup.qml RibbonButton.qml
     RibbonBottomBar.qml RibbonIcon.qml RibbonToolTip.qml
     RibbonTitleBar.qml RibbonSlider.qml RibbonSwitchButton.qml

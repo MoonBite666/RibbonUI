@@ -93,6 +93,10 @@ RibbonWindow {
     }
     Component.onCompleted: tour.open()
 
+    // RibbonToolBar{
+    //
+    // }not work :-(
+
     TabBar{
         id: tab_bar
         onSettingsBtnClicked:{
